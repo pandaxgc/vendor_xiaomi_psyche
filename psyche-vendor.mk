@@ -1130,7 +1130,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libOmxVpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxVpp.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libOmxWmaDec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOmxWmaDec.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libOpenCL.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCL.so \
-    vendor/xiaomi/psyche/proprietary/vendor/lib/libOpenCL_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/libOpenCL_adreno.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libQ6MSFR_manager_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libQ6MSFR_manager_stub.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libVkLayer_q3dtools.so:$(TARGET_COPY_OUT_VENDOR)/lib/libVkLayer_q3dtools.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/liba2dpoffload.so:$(TARGET_COPY_OUT_VENDOR)/lib/liba2dpoffload.so \
@@ -1183,7 +1182,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libdiag.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdiag.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libdisplayfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdisplayfeature.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libdisplayfeatureservice.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdisplayfeatureservice.so \
-    vendor/xiaomi/psyche/proprietary/vendor/lib/libdmabufheap.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdmabufheap.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libdrc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdrc.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libdsd2pcm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdsd2pcm.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libdsi_netctrl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdsi_netctrl.so \
@@ -1201,11 +1199,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libhta_hexagon_runtime.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhta_hexagon_runtime.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libidl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libidl.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libipebpsstriping.so:$(TARGET_COPY_OUT_VENDOR)/lib/libipebpsstriping.so \
-    vendor/xiaomi/psyche/proprietary/vendor/lib/libkernelmanager.so:$(TARGET_COPY_OUT_VENDOR)/lib/libkernelmanager.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/liblistensoundmodel2.so:$(TARGET_COPY_OUT_VENDOR)/lib/liblistensoundmodel2.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libllvm-glnext.so:$(TARGET_COPY_OUT_VENDOR)/lib/libllvm-glnext.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libllvm-qcom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libllvm-qcom.so \
-    vendor/xiaomi/psyche/proprietary/vendor/lib/libllvm-qgl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libllvm-qgl.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libloc_api_wds.so:$(TARGET_COPY_OUT_VENDOR)/lib/libloc_api_wds.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libmdmdetect.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmdmdetect.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib/libmdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmdsprpc.so \
@@ -1517,7 +1513,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/psyche/proprietary/vendor/lib64/deviceInfoServiceModule.so:$(TARGET_COPY_OUT_VENDOR)/lib64/deviceInfoServiceModule.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib64/egl/eglSubDriverAndroid.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/eglSubDriverAndroid.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib64/egl/libEGL_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libEGL_adreno.so \
-    vendor/xiaomi/psyche/proprietary/vendor/lib64/egl/libEGL_angle.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libEGL_angle.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib64/egl/libGLESv1_CM_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLESv1_CM_adreno.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib64/egl/libGLESv1_CM_angle.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLESv1_CM_angle.so \
     vendor/xiaomi/psyche/proprietary/vendor/lib64/egl/libGLESv2_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLESv2_adreno.so \
